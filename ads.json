@@ -1,12 +1,12 @@
 [
   {
     "author": "eduardsi",
-    "pattern": "java|@eduardsi",
+    "pattern": "#java#|@eduardsi",
     "message": "<p>Hi, Buddy!</p><p>Want to learn more about effective software design and architecture in Java?</p><p><a href=\"https://devchampions.com/training/java?_openstat=tb;training;java\">Join</a> my upcoming training!</p>"
   },
   {
     "author": "venkat_s",
-    "pattern": "kotlin|venkat_s",
+    "pattern": "#kotlin#|venkat_s",
     "message": "<p>Hi!</p><p>Kotlin popularity is booming. Join my upcoming Kotlin workshop at <a href=\"https://devternity.com?_openstat=tb;training;kotlin\">DevTernity</a> conference!</p>"
   },
   {
