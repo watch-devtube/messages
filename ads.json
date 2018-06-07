@@ -1,5 +1,10 @@
 [
   {
+    "author": "devternity",
+    "pattern": "devternity",
+    "message": "<p>Hi, Buddy!</p><p>Registration to DevTernity 2018 is running!</p><p><a.button.is-success href=\"https://devternity.com?_openstat=tb;training;dt\">Register now</a></p>"
+  },      
+  {
     "author": "eduardsi",
     "pattern": "#java#|@eduardsi",
     "message": "<p>Hi, Buddy!</p><p>Want to learn more about effective software design and architecture in Java?</p><p><a href=\"https://devchampions.com/training/java?_openstat=tb;training;java\">Join</a> my upcoming training!</p>"
@@ -18,5 +23,5 @@
     "author": "sandromancuso",
     "pattern": "@sandromancuso",
     "message": "<p>Hi!</p><p>Join my Crafting Code workshop at <a href=\"https://devternity.com?_openstat=tb;training;sandro\">DevTernity</a> conference!</p>"
-  }  
+  }
 ]
