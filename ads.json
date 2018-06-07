@@ -2,7 +2,7 @@
   {
     "author": "devternity",
     "pattern": "devternity",
-    "message": "<p>Hi, Buddy!</p><p>Registration to DevTernity 2018 is running!</p><p><a.button.is-success href=\"https://devternity.com?_openstat=tb;training;dt\">Register now</a></p>"
+    "message": "<p>Hi, Buddy!</p><p>Registration to DevTernity 2018 is running!</p><p><a class=\"button is-success\" href=\"https://devternity.com?_openstat=tb;training;dt\">Register now</a></p>"
   },      
   {
     "author": "eduardsi",
