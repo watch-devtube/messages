@@ -10,11 +10,6 @@
     "message": "<p>Hi, Buddy!</p><p>Want to learn more about effective software design and architecture in Java?</p><p><a href=\"https://devchampions.com/training/java?_openstat=tb;training;java\">Join</a> my upcoming training!</p>"
   },
   {
-    "author": "venkat_s",
-    "pattern": "#kotlin#|@venkat_s",
-    "message": "<p>Hi!</p><p>Kotlin popularity is booming. Join my upcoming Kotlin workshop at <a href=\"https://devternity.com?_openstat=tb;training;kotlin\">DevTernity</a> conference!</p>"
-  },
-  {
     "author": "theburningmonk",
     "pattern": "serverless",
     "message": "<p>Hi!</p><p>Serverless computing is a fairly new concept that has somewhat exploded in terms of popularity. Join my upcoming Serverless workshop at <a href=\"https://devternity.com?_openstat=tb;training;serverless\">DevTernity</a> conference!</p>"
@@ -22,6 +17,6 @@
   {
     "author": "sandromancuso",
     "pattern": "@sandromancuso",
-    "message": "<p>Hi!</p><p>Join my Crafting Code workshop at <a href=\"https://devternity.com?_openstat=tb;training;sandro\">DevTernity</a> conference!</p>"
+    "message": "Join my Crafting Code workshop at <a href=\"https://devternity.com?_openstat=tb;training;sandro\">DevTernity</a> conference!</p>"
   }
 ]
