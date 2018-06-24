@@ -1,7 +1,7 @@
 [
   {
     "author": "devternity",
-    "pattern": "devternity",
+    "pattern": "*",
     "message": "<p>Registration to the top #3 tech conference in Europe is running!</p><p><a class=\"button is-success\" href=\"https://devternity.com?_openstat=tb;training;dt\">Register now</a></p>"
   },      
   {
@@ -12,7 +12,7 @@
   {
     "author": "theburningmonk",
     "pattern": "serverless",
-    "message": "<p>Hi!</p><p>Serverless computing is a fairly new concept that has somewhat exploded in terms of popularity. Join my upcoming Serverless workshop at <a href=\"https://devternity.com?_openstat=tb;training;serverless\">DevTernity</a> conference!</p>"
+    "message": "<p>Join my upcoming Serverless workshop at <a href=\"https://devternity.com?_openstat=tb;training;serverless\">DevTernity</a> conference!</p>"
   },
   {
     "author": "sandromancuso",
