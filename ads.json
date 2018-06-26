@@ -2,7 +2,7 @@
   {
     "author": "eduardsi",
     "pattern": ".*",
-    "message": "<p>Registration to <b>the top #3</b> tech conference in Europe is running!</p><p><a class=\"button is-success\" href=\"https://devternity.com?_openstat=tb;training;dt\">Show me the program</a></p>"
+    "message": "<p>Want to be among this inspiring people?</p><p><a class=\"button is-success\" href=\"https://devternity.com?_openstat=tb;training;dt\">Join DevTernity</a></p>"
   },      
   {
     "author": "codingandrey",
@@ -12,7 +12,7 @@
   {
     "author": "eduardsi",
     "pattern": "#java#|@eduardsi",
-    "message": "<p>Want to learn more about effective software design and architecture in Java?</p><p><a href=\"https://devchampions.com/training/java?_openstat=tb;training;java\">Join</a> my upcoming training!</p>"
+    "message": "<p>Want to learn more about software architecture in Java?</p><p><a href=\"https://devchampions.com/training/java?_openstat=tb;training;java\">Join</a> my upcoming training!</p>"
   },
   {
     "author": "jnabrdalik",
