@@ -2,7 +2,7 @@
   {
     "author": "eduardsi",
     "pattern": ".*",
-    "message": "<p>Registration to the top #3 tech conference in Europe is running!</p><p><a class=\"button is-success\" href=\"https://devternity.com?_openstat=tb;training;dt\">Register now</a></p>"
+    "message": "<p>Registration to <b>the top #3</b> tech conference in Europe is running!</p><p><a class=\"button is-success\" href=\"https://devternity.com?_openstat=tb;training;dt\">Show me the program</a></p>"
   },      
   {
     "author": "codingandrey",
