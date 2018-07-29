@@ -6,17 +6,17 @@
   },      
   {
     "author": "venkat_s",
-    "pattern": ".*",
+    "pattern": "@venkat_s",
     "message": "<p>See you at <a href=\"https://devternity.com?_openstat=tb;training;dt\">DevTernity 2018</a>!</p>"
   },   
   {
     "author": "stilkov",
-    "pattern": ".*",
+    "pattern": "@stilkov",
     "message": "<p>See you at <a href=\"https://devternity.com?_openstat=tb;training;dt\">DevTernity 2018</a>!</p>"
   },   
   {
     "author": "dylanbeattie",
-    "pattern": ".*",
+    "pattern": "@dylanbeattie",
     "message": "<p>See you at <a href=\"https://devternity.com?_openstat=tb;training;dt\">DevTernity 2018</a>!</p>"
   },     
   {
@@ -36,7 +36,7 @@
   },  
   {
     "author": "theburningmonk",
-    "pattern": "serverless",
+    "pattern": "#serverless#|@theburningmonk",
     "message": "<p>Join my upcoming Serverless workshop at <a href=\"https://devternity.com?_openstat=tb;training;serverless\">DevTernity</a> conference!</p>"
   },
   {
