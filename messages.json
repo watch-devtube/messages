@@ -7,7 +7,7 @@
   {
     "author": "venkat_s",
     "pattern": ".*",
-    "message": "<p>See you at </p><p><a href=\"https://devternity.com?_openstat=tb;training;dt\">DevTernity 2018</a></p>"
+    "message": "<p>See you at <a href=\"https://devternity.com?_openstat=tb;training;dt\">DevTernity 2018</a>!</p>"
   },   
   {
     "author": "codingandrey",
