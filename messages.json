@@ -5,6 +5,11 @@
     "message": "<p>Want to be among this inspiring people?</p><p><a class=\"button is-success\" href=\"https://devternity.com?_openstat=tb;training;dt\">Join DevTernity</a></p>"
   },      
   {
+    "author": "venkat_s",
+    "pattern": ".*",
+    "message": "<p>See you at </p><p><a class=\"button is-success\" href=\"https://devternity.com?_openstat=tb;training;dt\">DevTernity</a></p>"
+  },   
+  {
     "author": "codingandrey",
     "pattern": "#devops#|#docker#|@codingandrey",
     "message": "<p>Want to learn more about DevOps principles and tools?</p><p><a href=\"https://devchampions.com/training/xa?_openstat=tb;training;xa\">Join</a> my upcoming training!</p>"
