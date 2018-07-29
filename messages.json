@@ -15,6 +15,11 @@
     "message": "<p>See you at <a href=\"https://devternity.com?_openstat=tb;training;dt\">DevTernity 2018</a>!</p>"
   },   
   {
+    "author": "dylanbeattie",
+    "pattern": ".*",
+    "message": "<p>See you at <a href=\"https://devternity.com?_openstat=tb;training;dt\">DevTernity 2018</a>!</p>"
+  },     
+  {
     "author": "codingandrey",
     "pattern": "#devops#|#docker#|@codingandrey",
     "message": "<p>Want to learn more about DevOps principles and tools?</p><p><a href=\"https://devchampions.com/training/xa?_openstat=tb;training;xa\">Join</a> my upcoming training!</p>"
