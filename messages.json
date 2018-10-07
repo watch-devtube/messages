@@ -3,7 +3,7 @@
     "author": "eduardsi",
     "pattern": ".*",
     "message": "<p>Want to learn from the industry leaders?</p><p><a class=\"button is-success\" href=\"https://devternity.com?_openstat=tb;training;dt\">Join DevTernity</a></p>"
-  },      
+  },
   {
     "author": "venkat_s",
     "pattern": "@venkat_s",
@@ -43,5 +43,10 @@
     "author": "sandromancuso",
     "pattern": "@sandromancuso",
     "message": "Join my Crafting Code workshop at <a href=\"https://devternity.com?_openstat=tb;training;sandro\">DevTernity</a> conference!</p>"
-  }
+  },
+  {
+    "author": "awscloud",
+    "pattern": "#serverless#|#aws#|#cloud#",
+    "message": "<p>Planning to build stuff on Amazon AWS? <a href=\"http://cloudvisor.eu/\">Contact Cloudvisor - their official partner in Baltic states - for help and advice</a>!</p>"
+  },     
 ]
