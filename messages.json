@@ -3,47 +3,12 @@
     "author": "eduardsi",
     "pattern": ".*",
     "message": "<p>Want to learn from the industry leaders?</p><p><a class=\"button is-success\" href=\"https://devternity.com?_openstat=tb;training;dt\">Join DevTernity</a></p>"
-  },
-  {
-    "author": "venkat_s",
-    "pattern": "@venkat_s",
-    "message": "<p>See you at <a href=\"https://devternity.com?_openstat=tb;training;dt\">DevTernity 2018</a>!</p>"
   },   
-  {
-    "author": "stilkov",
-    "pattern": "@stilkov",
-    "message": "<p>See you at <a href=\"https://devternity.com?_openstat=tb;training;dt\">DevTernity 2018</a>!</p>"
-  },   
-  {
-    "author": "dylanbeattie",
-    "pattern": "@dylanbeattie",
-    "message": "<p>See you at <a href=\"https://devternity.com?_openstat=tb;training;dt\">DevTernity 2018</a>!</p>"
-  },     
   {
     "author": "codingandrey",
     "pattern": "#devops#|#docker#|@codingandrey",
     "message": "<p>Want to learn more about DevOps principles and tools?</p><p><a href=\"https://devchampions.com/training/xa?_openstat=tb;training;xa\">Join</a> my upcoming training!</p>"
   },  
-  {
-    "author": "eduardsi",
-    "pattern": "@eduardsi",
-    "message": "<p>Want to hear the Dev.Tube story? Join <a href=\"https://devternity.com?_openstat=tb;training;dt\">DevTernity 2018</a>!</p>"
-  },
-  {
-    "author": "jnabrdalik",
-    "pattern": "@jnabrdalik",
-    "message": "<p>Join my upcoming TDD workshop at <a href=\"https://devternity.com?_openstat=tb;training;jnb\">DevTernity</a> conference!</p>"
-  },  
-  {
-    "author": "theburningmonk",
-    "pattern": "#serverless#|@theburningmonk",
-    "message": "<p>Join my upcoming Serverless workshop at <a href=\"https://devternity.com?_openstat=tb;training;serverless\">DevTernity</a> conference!</p>"
-  },
-  {
-    "author": "sandromancuso",
-    "pattern": "@sandromancuso",
-    "message": "Join my Crafting Code workshop at <a href=\"https://devternity.com?_openstat=tb;training;sandro\">DevTernity</a> conference!</p>"
-  },
   {
     "author": "awscloud",
     "pattern": "#serverless#|#aws#|#cloud#",
