@@ -8,10 +8,5 @@
     "author": "codingandrey",
     "pattern": "#devops#|#docker#|@codingandrey",
     "message": "<p>Want to learn more about DevOps principles and tools?</p><p><a href=\"https://devchampions.com/training/xa?_openstat=tb;training;xa\">Join</a> my upcoming training!</p>"
-  },  
-  {
-    "author": "awscloud",
-    "pattern": "#serverless#|#aws#|#cloud#",
-    "message": "<p>Planning to build stuff on Amazon AWS? <a href=\"http://cloudvisor.eu/\">Contact Cloudvisor - their official partner in Baltic states - for help and advice</a>!</p>"
   }
 ]
