@@ -6,7 +6,7 @@
   },   
   {
     "author": "codingandrey",
-    "pattern": "#devops#|#docker#|@codingandrey",
+    "pattern": "#devops#|#docker#|#kubernetes#|#serverless#|#helm#|#cloud#|#aws#|#cd#|#gitops#|#automation#|@codingandrey",
     "message": "<p>Want to learn more about DevOps principles and tools?</p><p><a href=\"https://devchampions.com/training/xa?_openstat=tb;training;xa\">Join</a> my upcoming training!</p>"
   }
 ]
